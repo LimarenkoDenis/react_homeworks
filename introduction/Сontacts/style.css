@@ -1,0 +1,45 @@
+.cliarfix:after{
+  display: block;
+  content: '';
+  clear: both;
+}
+.contacts {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.search-field {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.contacts-list {
+  padding: 0;
+  width: 100%;
+}
+
+.contact {
+  font-family: sans-serif;
+  width: 100%;
+  padding: 5px;
+  border-bottom: 1px dotted grey;
+}
+
+.contact-image {
+    float: left;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+.contact-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.contact-number {
+  font-size: 18px;
+  color: grey;
+}
+
+
